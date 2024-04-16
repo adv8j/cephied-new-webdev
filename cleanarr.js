@@ -28,6 +28,12 @@ const members = [
   ],
   [
     {
+      Name: "Prof. Mayukh Pahari ",
+      Email: "mayukh@phy.iith.ac.in",
+      Photo: "images/mayukh.jpeg",
+      Designation: "Faculty Mentor",
+    },
+    {
       Name: "Ambica Govind ",
       Email: "ep21btech11007@iith.ac.in",
       Photo: "images/IMG-20240209-WA0085 - Ambica Govind.jpg",
@@ -37,6 +43,12 @@ const members = [
       Name: "Rushikesh Nilapalle ",
       Email: "es20btech11022@iith.ac.in",
       Photo: "images/IMG-20230703-WA0015(1) - RUSHIKESH NILAPALLE.jpg",
+      Designation: "Mentor",
+    },
+    {
+      Name: "Aman Srivastava ",
+      Email: "ph21resch12001@iith.ac.in",
+      Photo: "images/AMAN SRIVASTAVA.jpg",
       Designation: "Mentor",
     },
   ],
@@ -65,8 +77,14 @@ const members = [
     {
       Name: "Advait Jain",
       Email: "cs22btech11003@iith.ac.in",
-      Photo:"images/advait_jain.jpg",
+      Photo: "images/advait_jain.jpg",
       Designation: "Inbound",
+    },
+    {
+      Name: "Vedant Sanghavi",
+      Email: "ce22btech11053@iith.ac.in",
+      Photo: "images/vedant.jpeg",
+      Designation: "Media & PR",
     },
     {
       Name: "Om Dave",
@@ -129,7 +147,7 @@ const members = [
       Designation: "Events",
     },
     {
-      Name: "Paban shinde ",
+      Name: "Pavankumar shinde ",
       Email: "co22btech11008@iith.ac.in",
       Photo: "images/IMG_20240110_230629 - Pavankumar Maharudra Shinde.jpg",
       Designation: "Inbound",
